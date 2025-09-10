@@ -182,6 +182,6 @@ If you have any questions or issues:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Isac**
 
 *Enjoy cooking and discovering new recipes!* 🍳👨‍🍳👩‍🍳

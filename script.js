@@ -1,3 +1,10 @@
+/*
+    Food Recipe Website - JavaScript
+    Author: Isac
+    Description: Interactive functionality and API integration for recipe search
+    GitHub: https://github.com/Theesamkos/Food-Recipe-App
+*/
+
 const searchInput = document.getElementById('search-input');
 const searchButton = document.getElementById('searchButton');
 const mealList = document.getElementById('mealList');
