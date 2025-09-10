@@ -182,6 +182,6 @@ If you have any questions or issues:
 
 ---
 
-**Made with ❤️ by Isac**
+**Made by Sam Orth**
 
 *Enjoy cooking and discovering new recipes!* 🍳👨‍🍳👩‍🍳

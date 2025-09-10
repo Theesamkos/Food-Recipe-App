@@ -1,6 +1,6 @@
 /*
     Food Recipe Website - JavaScript
-    Author: Isac
+    Author: Sam Orth
     Description: Interactive functionality and API integration for recipe search
     GitHub: https://github.com/Theesamkos/Food-Recipe-App
 */
